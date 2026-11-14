@@ -258,4 +258,5 @@ on the language model using the supplied context appropriately.
 
 **Practical:** No. 06 -- Retrieval-Augmented Generation (RAG) using a
 Pre-trained LLM\
-**Student:** Piyush Jangade
+**Student:** Himanshu Gharde
+**PRN:** 202401110007
